@@ -9,15 +9,15 @@
 ========== ========== =======
  computer     user    result
 ========== ========== =======
-Rock          Rock		Draw
+Rock          Rock	Draw
 Rock        Scissors	Lose
-Rock		  Paper		Win
-Scissors      Rock		Win
-Scissors	Scissors	Draw
-Scissors	  Paper		Lose
-Paper		  Rock		Lose
-Paper		Scissors	Win
-Paper		  Paper		Draw
+Rock	      Paper	Win
+Scissors      Rock	Win
+Scissors    Scissors	Draw
+Scissors      Paper	Lose
+Paper	      Rock	Lose
+Paper       Scissors	Win
+Paper	      Paper	Draw
 ========== ========== =======
 """
 
